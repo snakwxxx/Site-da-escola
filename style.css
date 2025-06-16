@@ -40,3 +40,19 @@ body.informacoes header {
     font-size: 1.2em;
     color: #666;
 }
+
+/* Estilo do Rodapé (Somente para a página de Informações Pessoais) */
+body.informacoes footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+body.informacoes footer p {
+    margin: 0;
+    font-size: 1em;
+}
