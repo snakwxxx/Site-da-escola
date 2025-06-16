@@ -1,0 +1,42 @@
+/* Estilos Gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+}
+
+/* Estilo do Cabeçalho */
+header {
+    display: flex;
+    justify-content: flex-start; /* Para a imagem ficar à esquerda na página de avaliação */
+    align-items: center;
+    padding: 10px;
+}
+
+header img {
+    width: 50px;
+    height: auto;
+    cursor: pointer;
+}
+
+/* Alinhamento para a página de Informações Pessoais */
+body.informacoes header {
+    justify-content: flex-end; /* Para a imagem ficar à direita na página de informações pessoais */
+}
+
+/* Estilo do Conteúdo */
+.content {
+    text-align: center;
+    padding: 50px;
+}
+
+.content h1 {
+    font-size: 2em;
+    color: #333;
+}
+
+.content p {
+    font-size: 1.2em;
+    color: #666;
+}
