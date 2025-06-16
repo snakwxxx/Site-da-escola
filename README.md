@@ -1,18 +1,1 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Avaliação - Escola</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <header>
-        <a href="informacoes.html"><img src="imagem_da_escola.jpg" alt="Imagem da Escola"></a>
-    </header>
-    <div class="content">
-        <h1>Avaliação da Escola</h1>
-        <p>Avalie os serviços e a infraestrutura da nossa escola.</p>
-    </div>
-</body>
-</html>
+
